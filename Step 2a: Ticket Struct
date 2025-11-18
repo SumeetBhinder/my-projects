@@ -1,0 +1,6 @@
+struct Ticket {
+    std::string section;
+    int row;
+    int seat;
+    double price;
+};
